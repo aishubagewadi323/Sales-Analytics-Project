@@ -1,1 +1,1 @@
-# Sales-Analytics-Project
+# Northwind Traders Project
